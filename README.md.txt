@@ -10,5 +10,5 @@ This is a Streamlit web app for data visualization and analysis of the **Palmer 
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/penguins-streamlit-app.git
+   git clone https://github.com/Disha-2302004/penguins-streamlit-app.git
    cd penguins-streamlit-app
