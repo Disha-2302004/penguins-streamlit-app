@@ -725,7 +725,7 @@ plt.show()
 # In[43]:
 
 
-pip install --upgrade xgboost
+
 
 
 # In[6]:
